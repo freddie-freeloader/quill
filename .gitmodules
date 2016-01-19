@@ -1,0 +1,3 @@
+[submodule "quill-dsh-prototype"]
+	path = quill-dsh-prototype
+	url = git@github.com:freddie-freeloader/quill-dsh-prototype.git
